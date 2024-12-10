@@ -55,7 +55,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  - Ikea had geen light & dark mode 
+  - Ikea had geen light & dark mode
+
   - 
 
 </details>
@@ -160,7 +161,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+  - Screenreader
+De screenreader pakt mijn website goed door 
 </details>
 
 
