@@ -415,7 +415,8 @@ main section:nth-of-type(10) a:hover {
     background-color: var(--color-accent-2);
 }
 
-/* Afbeeldingen grid meer inspiratie */
+/* afbeeldingen grid meer inspiratie */
+
 main section:nth-of-type(11) {
     display: grid;
     margin-top: 1em;
