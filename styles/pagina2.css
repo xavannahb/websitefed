@@ -2,16 +2,15 @@
 /* CSS REMEDY */
 /**************/
 *, *::after, *::before {
-    box-sizing:border-box;  
+    box-sizing: border-box;
 }
-  
+
 /**************/
 /* HEADER  */
 /**************/
-
 header section:nth-of-type(2) {
     padding: 1.3em;
-    background-color:var(--color-accent);
+    background-color: var(--color-accent);
 }
 
 header section:nth-of-type(2) a {
@@ -23,6 +22,7 @@ header section:nth-of-type(3) {
     margin-left: 1em;
     gap: 1em;
 }
+
 header section:nth-of-type(3) p {
     font-size: 0.9em;
 }
@@ -31,39 +31,38 @@ header section:nth-of-type(3) p:hover {
     text-decoration: underline;
 }
 
-
-@media (width > 600px) {
-	header section:nth-of-type(2){
-		padding-right: 3em;
-    	padding-left: 4em;
+@media (width > 37.5em) {
+    header section:nth-of-type(2) {
+        padding-right: 3em;
+        padding-left: 4em;
     }
 
-    header section:nth-of-type(3){
-		padding-right: 3em;
-    	padding-left: 3em;
+    header section:nth-of-type(3) {
+        padding-right: 3em;
+        padding-left: 3em;
+    }
+}
+
+@media (width > 56.25em) {
+    header section:nth-of-type(2) {
+        padding-right: 4em;
+        padding-left: 5em;
+    }
+
+    header section:nth-of-type(3) {
+        padding-right: 4em;
+        padding-left: 4em;
     }
 }
 
-@media (width > 900px) {
-	header section:nth-of-type(2){
-		padding-right: 4em;
-    	padding-left: 5em;
-    }
-
-    header section:nth-of-type(3){
-		padding-right: 4em;
-    	padding-left: 4em;
-    }
-}
 /* section 1: waarom tweedehansmeubels */
-
 main section:nth-of-type(1) {
     display: grid;
-	grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
 }
 
 main section:nth-of-type(1) div {
-	grid-column:1/-1;
+    grid-column: 1 / -1;
 }
 
 main section:nth-of-type(1) img {
@@ -74,31 +73,30 @@ main section:nth-of-type(1) img {
 main section:nth-of-type(1) a {
     text-decoration: none;
     margin-top: 1em;
-	padding: 1em;
+    padding: 1em;
     width: 11em;
-	font-weight: 700;
-	color: var(--color-text-2);
-	background-color: var(--color-background-2);
-	border: none;
-	border-radius: 30px;
+    font-weight: 700;
+    color: var(--color-text-2);
+    background-color: var(--color-background-2);
+    border: none;
+    border-radius: 30px;
 }
 
 main section:nth-of-type(1) a:hover {
     background-color: var(--color-text);
 }
 
-@media (width > 800px) {
-	main section:nth-of-type(1) {
-		grid-template-columns: 1fr 1fr ;
+@media (width > 50em) {
+    main section:nth-of-type(1) {
+        grid-template-columns: 1fr 1fr;
         gap: 5em;
-	}
-} 
+    }
+}
 
-/* section 2: terug koop service*/
-
+/* section 2: terug koop service */
 main section:nth-of-type(2) {
-	display: grid;
-	grid-template-columns: 1fr;
+    display: grid;
+    grid-template-columns: 1fr;
 }
 
 main section:nth-of-type(2) p {
@@ -115,39 +113,38 @@ main section:nth-of-type(2) a {
     display: inline-block;
     text-align: center;
     text-decoration: none;
-	padding: 1em;
-	font-weight: 700;
-	color: var(--color-text-2);
-	background-color: var(--color-background-2);
-	border: none;
-	border-radius: 30px;
+    padding: 1em;
+    font-weight: 700;
+    color: var(--color-text-2);
+    background-color: var(--color-background-buttons-dark);
+    border: none;
+    border-radius: 30px;
 }
 
 main section:nth-of-type(2) a:hover {
-	background-color: var(--color-text);
+    background-color: var(--color-text);
 }
 
-@media (width > 600px) {
-	main section:nth-of-type(2) {
-		grid-template-columns: 1fr 1fr 1fr;
-	}
+@media (width > 37.5em) {
+    main section:nth-of-type(2) {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 
     main section:nth-of-type(2) img {
         width: 100%;
         height: auto;
-	}
+    }
+
     main article {
         margin: 1em;
-	}
-}  
-
+    }
+}
 
 /* section 3: circulair */
-
 main section:nth-of-type(3) {
     margin-top: 5em;
     margin-bottom: 3em;
-    padding: 2.5em;
+    padding: 4em;
     background-color: #f1d434;
 }
 
@@ -160,23 +157,25 @@ main a {
     background-color: rgb(255, 255, 255);
     border: 1px solid rgb(0, 0, 0);
     border-radius: 50px;
-} 
+}
+
+main a:hover {
+    border: 2px solid rgb(0, 0, 0);
+}
 
 /* section 4: video */
-
 main section:nth-of-type(4) iframe {
     margin-top: 4em;
     width: 100%;
-    aspect-ratio: 560/315;
+    aspect-ratio: 560 / 315;
     height: auto;
 }
 
-/* section 5: 42,6 miljoen producten  */
-
+/* section 5: 42,6 miljoen producten */
 main section:nth-of-type(5) {
     display: grid;
-	grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr;
+    margin-top: 3em;
 }
 
 main section:nth-of-type(5) img {
@@ -187,65 +186,68 @@ main section:nth-of-type(5) img {
 
 main section:nth-of-type(5) p {
     background-color: green;
-    padding:0.2em;
+    padding: 0.2em;
     width: 6em;
     color: var(--color-text-2);
     font-weight: 700;
     font-size: smaller;
 }
 
-main section:nth-of-type(5) button {
-    margin-top: 2em;
-    padding: 1.5em;
-    font-size: 1em;
-    color: var(--color-text-2);
-    background-color: var(--color-background-2);
-    border: none;
-    border-radius: 50px;
-} 
+main section:nth-of-type(5) a {
+    background-color: var(--color-background-buttons-dark);
+}
 
-@media (width > 800px) {
-	main section:nth-of-type(5) {
-		grid-template-columns: 1fr 1fr;
+main section:nth-of-type(5) a:hover {
+    background-color: var(--color-text);
+}
+
+main section:nth-of-type(5) svg {
+    fill: var(--color-text-2);
+}
+
+@media (width > 56.25em) {
+    main section:nth-of-type(5) {
+        grid-template-columns: 30em 1fr;
         gap: 5em;
-	}
+    }
 
     main section:nth-of-type(5) img {
         grid-column: 2;
     }
-} 
-/* section 6: tips en ideeen voor duurzamer huis*/
+}
 
+/* section 6: tips en ideeen voor duurzamer huis */
 main section:nth-of-type(6) {
-	display: flex;
-	overflow-x: scroll;
-	position: relative; 
+    display: flex;
+    overflow-x: scroll;
+    position: relative;
 }
 
 main section:nth-of-type(6) img {
-    width: 250px; 
+    width: 250px;
     height: auto;
 }
 
 main section:nth-of-type(6) article {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-right: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1em;
 }
 
 main section:nth-of-type(6) a {
-	margin-top: 15em;
-	position: absolute; 
-	color: var(--color-headings);
-	text-decoration: none;
-	padding: 1em;
-	font-weight: 700;
-	background-color: var(--color-background);
-	border: none;
-	border-radius: 30px;
+    display: inline-block;
+    margin-top: 15em;
+    position: absolute;
+    color: var(--color-headings);
+    text-decoration: none;
+    padding: 1em;
+    font-weight: 700;
+    background-color: var(--color-background);
+    border: none;
+    border-radius: 30px;
 }
 
 main section:nth-of-type(6) a:hover {
-	background-color: var(--color-accent);
+    background-color: var(--color-accent);
 }

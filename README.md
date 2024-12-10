@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Mijn start niveau is rood. 
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Ik focus op een beetje suface en voornamelijk responsive. 
  
 </details>
 
@@ -35,14 +35,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   https://www.ikea.com/nl/nl/
+  https://www.ikea.com/nl/nl/this-is-ikea/sustainable-everyday/how-to-be-more-sustainable/waarom-we-tweedehandsmeubels-verkopen-pub88c22ef0/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home pagina
+  <img src="readme-images/homepage-ikea.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Tweede handsmeubels 
+  <img src="readme-images/tweedehand-ikea.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -54,7 +55,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  - Ikea had geen light & dark mode 
+  - 
 
 </details>
 
@@ -66,10 +68,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/eerste-scherm.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/tweede-scherm.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -86,8 +88,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+ Ik heb helaas dit voortgangsgesprek gemist maar ik ben wel zelf druk aan de slag geweest met mijn website. 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -172,26 +173,40 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+Er ging best wel veel goed deze week. Ik heb veel vooruit gang gemaakt met de puntjes op de i te zetten om ervoor te zorgen dat de website zoveel mogelijk op die van de ikea lijkt. 
+
+- Uitklap menu
+Ik heb ervoor gezorgd dat het uitklap menu de opmaak lijkt op die van ikea met de zoekbalk en de lijst met pagina's. 
+
+- Responsive img 
+Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeven moment snapte ik hoe ik met media query's alle elementen op de juiste manier kon schalen. Ik ben de hele webpagina langs gegaan en steeds opgeschreven welke element versprong en op welk formaat dat gebeurde. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Amy            | Xavannah           | 
+  | ---            | ---                | 
+  | <img> Overlay  | en dit             | 
+  | en dat ook nog | dit als er tijd is | 
+  | ...            | ...                | 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Responsive afbeelding op pagina 2 in een grid zetten
+Ik heb de afbeelding op pagina 2 succesvol in een grid geplaatst. Hierdoor is de afbeelding nu volledig responsive en past deze zich goed aan op verschillende schermformaten.
+
+  - Header padding toevoegen
+Om het ontwerp netter te maken, heb ik padding toegevoegd aan de header. Dit lukte niet toen ik de hele header pakte maar wel als ik stukje voor stukje de header uit elkaar haalde waardoor er wat ruimte aan de zijkanten komt wat de ikea website ook heeft. 
+
+  - Footer schaalt niet mee
+Ik heb samen met Kim gekeken waarom de footer niet meeschaalde. Ik heb nu padding toegevoegd aan beide kanten van de footer waardoor deze met het scherm mee groter worden. 
+
+  - Light & dark mode
+Light en dark mode werkte niet mee. Ik snapte niet hoe je dit moest omdraaien. Met behulp van preferse heb ik nu mijn website in dark mode kunnen krijgen. Wel is het zo dat alles op een lelijke manier weergaf dus ik heb de hele root omgegooid en nu alle kleuren op de juiste manieren laten weergeven. 
 
 </details>
 
