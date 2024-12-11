@@ -43,7 +43,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Tweede handsmeubels 
-  <img src="readme-images/tweedehand-ikea.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/tweedehands-ikea.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -226,11 +226,23 @@ Light en dark mode werkte niet mee. Ik snapte niet hoe je dit moest omdraaien. M
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Korte omschrijving met plaatjes 
+  Ik heb geleerd hoe ik met media querys op verschillende manieren light en dark mode kan geven aan een website. 
+  <img src="readme-images/light-dark.png" width="375px" alt="top">
+  
+ Ik heb geleerd om custom properties aan te spreken en geen classes of div’s te gebruiken. Eerst was dit best wel erg wennen omdat we het niet zo aangeleerd hadden gekregen maar nu kan ik eigenlijk bijna niet anders. 
+  <img src="readme-images/custom-properties.png" width="375px" alt="top">
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  Daarnaast heb ik ook geleerd hoe je een root moet toepassen in css. Het gebruiken van een root is eigenlijk een stuk handiger want dan hoef je niet kleur voor kleur aan te passen in je css.
+ <img src="readme-images/root.png" width="375px" alt="top">
+ 
+  Ik heb ook geleerd om met grid te werken in plaats van flexbox. Met grid kan je veel makkelijker elementen op een bepaalde manieren positioneren om je opmaak te veranderen. Om een site responsive te maken is met grid werken veel eenvoudiger. 
 
+Ook heb ik geleerd hoe je met media queries een website responsive maakt. Met de media queries heb ik op verschillende manieren me website responsive gekregen. Zoals afbeeldingen die verspringen in een grid van 2 columns naar 3 columns. Ook plaatsing van bepaalde elementen kan je veranderen door deze in de grid een andere plaats te geven. 
 
+Als laatst heb ik geleerd hoe ik svgs kan importeren in mijn html en hoe je de kleuren daarvan kan aanpassen ook met light en dark mode. 
+
+Tijdens dit vak heb ik voor het eerst niet steeds alles uitgesteld tot het laatste moment. Ik vond het echt een heel leuk vak om te volgen en vond de manier van de lesgeven en lesindeling fijn om elke week echt voortgang te kunnen maken. 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
