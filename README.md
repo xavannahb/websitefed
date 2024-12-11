@@ -53,10 +53,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  - Ikea had geen light & dark mode
-
-  - 
-
+  - Ikea had geen light & dark mode | De Ikea had light en dark mode op hun website. Ze beperken hierbij erg de toegangkelijkheid van de website. 
+  - Meeschalen | De text van de website schaalt goed mee waardoor slecht ziende mensen makkelijker ook de text op de website kunnen lezen. 
+  - Afbeeldingen | De afbeeldingen van de website schalen niet mee. Er zijn 9 variaties per afbeelding om ervoor te zorgen dat het meeschaalt. 
 </details>
 
 
@@ -138,8 +137,9 @@ Ik heb alle opdrachten die we gemaakt hebben in de eerste twee weken toegepast o
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
- ⋅⋅* Screenreader
-De screenreader pakt mijn website goed door 
+- Screenreader | De screenreader tabt goed door mijn website door. Ik heb alle links zonder betekenis een aria label gegeven zodat de screenreader weet wat voor link het is.
+
+  - Light & dark mode | De website heb ik aangepast voor light en dark mode. Ik heb de achtergrond een soort donkergrijs gemaakt zodat mensen die niet tegen fel licht kunnen ook de website kunnen gebruiken.
 </details>
 
 
@@ -155,11 +155,9 @@ De screenreader pakt mijn website goed door
 
 Er ging best wel veel goed deze week. Ik heb veel vooruit gang gemaakt met de puntjes op de i te zetten om ervoor te zorgen dat de website zoveel mogelijk op die van de ikea lijkt. 
 
-- Uitklap menu
-Ik heb ervoor gezorgd dat het uitklap menu de opmaak lijkt op die van ikea met de zoekbalk en de lijst met pagina's. 
+- Uitklap menu | Ik heb ervoor gezorgd dat het uitklap menu de opmaak lijkt op die van ikea met de zoekbalk en de lijst met pagina's. 
 
-- Responsive img 
-Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeven moment snapte ik hoe ik met media query's alle elementen op de juiste manier kon schalen. Ik ben de hele webpagina langs gegaan en steeds opgeschreven welke element versprong en op welk formaat dat gebeurde. 
+- Responsive img | Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeven moment snapte ik hoe ik met media query's alle elementen op de juiste manier kon schalen. Ik ben de hele webpagina langs gegaan en steeds opgeschreven welke element versprong en op welk formaat dat gebeurde. 
 
 
   ### Agenda voor meeting
@@ -195,7 +193,7 @@ Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeve
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/mijn-scherm.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -221,7 +219,10 @@ Tijdens dit vak heb ik voor het eerst niet steeds alles uitgesteld tot het laats
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Van de javascript begreep ik aan het begin niks. Ik ben zelf een hele avond bezig geweest met het menu en ik kwam er maar neit uit. Toen heb ik het aan sanne gevraagd en hij gaf 7 regeltjes code waar het gelijk me lukte! Zelf heb ik wel de andere knop toevoegd maar daarvoor hoefde ik geen andere functie te maken. 
+  <img src="readme-images/javascript.png" width="375px" alt="bummer">
+
+  Verder heb ik veel dingen gevraagd in de les zoals waarom bepaalde dingen niet werkten. Dit was vooral omdat ik niet het jusite element probeerde aan te roepen of omdat ik kleine typ fouten in me code had staan. Hierna kon ik snel zelf dingen oplossen als ik ergens niet uit kwam.
 </details>
 
 
@@ -233,12 +234,6 @@ Tijdens dit vak heb ik voor het eerst niet steeds alles uitgesteld tot het laats
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-
-  1. bron 1
-  2. bron 2
-  3. ...
+Ik heb eigenlijk geen bronnen gebruikt voor me code. Ik heb vooral veel vragen gesteld in de les. 
 
 </details>
