@@ -87,19 +87,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
- Ik heb helaas dit voortgangsgesprek gemist maar ik ben wel zelf druk aan de slag geweest met mijn website. 
+ Ik heb helaas dit voortgangsgesprek gemist maar ik ben wel zelf druk aan de slag geweest met mijn website. Ik heb de hele html en css van de eerste pagina afgemaakt en al begonnen aan mojn tweede pagina. 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
+Ik heb alle opdrachten die we gemaakt hebben in de eerste twee weken toegepast op mijn website. Tijdens de eerste twee weken hebben we veel nieuwe dingen behandeld en geleerd. 
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
+  ### Verslag van deze week
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
   - punt 1
@@ -124,27 +116,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Wat ging er goed?
   Ik heb gemerkt dat ik snel heb leren werken zonder classes en de html op de juiste manier heb kunnen aanspreken. Daarnaast ging het ook goed om met grid bepaalde layouts te maken met afbeeldingen die vervolgens zorgen voor een responsive website. 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-⋅⋅* Iframe video aanpassen
-  Ik heb samen met Sanne de video kunnen aanpassen doormiddel van de 'aspect ratio'. SDe ratio heb ik in css gezet waardoor ik vervolgens een mooie video kreeg die meeschaalde. 
+- Iframe video aanpassen | Ik heb samen met Sanne de video kunnen aanpassen doormiddel van de 'aspect ratio'. SDe ratio heb ik in css gezet waardoor ik vervolgens een mooie video kreeg die meeschaalde. 
 
-⋅⋅* Uitklap menu
-  Zelf heb ik gsiter heel lang met een uitlkap menu lopen spelen maar het lukte maar niet. Ik heb nu met Sanne een klein begin gemaakt met css en javascript om hem vervolgens zelf mooi te laten werken en opmaken.
+- Uitklap menu | Zelf heb ik gsiter heel lang met een uitlkap menu lopen spelen maar het lukte maar niet. Ik heb nu met Sanne een klein begin gemaakt met css en javascript om hem vervolgens zelf mooi te laten werken en opmaken.
 
-⋅⋅* Buttons
-  De buttons schaalde niet mee omdat ze op elkaar over liepen. Hiervoor heb ik als tip gekregen om display block te gebruiken. Inline zou er voor zorgen dat ze over de hele breedte zouden komen en dat wil ik niet. 
+- Buttons | De buttons schaalde niet mee omdat ze op elkaar over liepen. Hiervoor heb ik als tip gekregen om display block te gebruiken. Inline zou er voor zorgen dat ze over de hele breedte zouden komen en dat wil ik niet. 
 
 </details>
 
@@ -176,10 +155,10 @@ De screenreader pakt mijn website goed door
 
 Er ging best wel veel goed deze week. Ik heb veel vooruit gang gemaakt met de puntjes op de i te zetten om ervoor te zorgen dat de website zoveel mogelijk op die van de ikea lijkt. 
 
-⋅⋅* Uitklap menu
+- Uitklap menu
 Ik heb ervoor gezorgd dat het uitklap menu de opmaak lijkt op die van ikea met de zoekbalk en de lijst met pagina's. 
 
-⋅⋅* Responsive img 
+- Responsive img 
 Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeven moment snapte ik hoe ik met media query's alle elementen op de juiste manier kon schalen. Ik ben de hele webpagina langs gegaan en steeds opgeschreven welke element versprong en op welk formaat dat gebeurde. 
 
 
@@ -196,17 +175,13 @@ Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeve
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-⋅⋅* Responsive afbeelding op pagina 2 in een grid zetten
-Ik heb de afbeelding op pagina 2 succesvol in een grid geplaatst. Hierdoor is de afbeelding nu volledig responsive en past deze zich goed aan op verschillende schermformaten.
+- Responsive afbeelding op pagina 2 in een grid zetten | Ik heb de afbeelding op pagina 2 succesvol in een grid geplaatst. Hierdoor is de afbeelding nu volledig responsive en past deze zich goed aan op verschillende schermformaten.
 
-⋅⋅* Header padding toevoegen
-Om het ontwerp netter te maken, heb ik padding toegevoegd aan de header. Dit lukte niet toen ik de hele header pakte maar wel als ik stukje voor stukje de header uit elkaar haalde waardoor er wat ruimte aan de zijkanten komt wat de ikea website ook heeft. 
+- Header padding toevoegen | Om het ontwerp netter te maken, heb ik padding toegevoegd aan de header. Dit lukte niet toen ik de hele header pakte maar wel als ik stukje voor stukje de header uit elkaar haalde waardoor er wat ruimte aan de zijkanten komt wat de ikea website ook heeft. 
 
-⋅⋅* Footer schaalt niet mee
-Ik heb samen met Kim gekeken waarom de footer niet meeschaalde. Ik heb nu padding toegevoegd aan beide kanten van de footer waardoor deze met het scherm mee groter worden. 
+- Footer schaalt niet mee | Ik heb samen met Kim gekeken waarom de footer niet meeschaalde. Ik heb nu padding toegevoegd aan beide kanten van de footer waardoor deze met het scherm mee groter worden. 
 
-⋅⋅* Light & dark mode
-Light en dark mode werkte niet mee. Ik snapte niet hoe je dit moest omdraaien. Met behulp van preferse heb ik nu mijn website in dark mode kunnen krijgen. Wel is het zo dat alles op een lelijke manier weergaf dus ik heb de hele root omgegooid en nu alle kleuren op de juiste manieren laten weergeven. 
+- Light & dark mode | Light en dark mode werkte niet mee. Ik snapte niet hoe je dit moest omdraaien. Met behulp van preferse heb ik nu mijn website in dark mode kunnen krijgen. Wel is het zo dat alles op een lelijke manier weergaf dus ik heb de hele root omgegooid en nu alle kleuren op de juiste manieren laten weergeven. 
 
 </details>
 
@@ -237,10 +212,12 @@ Light en dark mode werkte niet mee. Ik snapte niet hoe je dit moest omdraaien. M
   Ik heb ook geleerd om met grid te werken in plaats van flexbox. Met grid kan je veel makkelijker elementen op een bepaalde manieren positioneren om je opmaak te veranderen. Om een site responsive te maken is met grid werken veel eenvoudiger. 
 
 Ook heb ik geleerd hoe je met media queries een website responsive maakt. Met de media queries heb ik op verschillende manieren me website responsive gekregen. Zoals afbeeldingen die verspringen in een grid van 2 columns naar 3 columns. Ook plaatsing van bepaalde elementen kan je veranderen door deze in de grid een andere plaats te geven. 
+ <img src="readme-images/grid.png" width="375px" alt="top">
 
 Als laatst heb ik geleerd hoe ik svgs kan importeren in mijn html en hoe je de kleuren daarvan kan aanpassen ook met light en dark mode. 
 
 Tijdens dit vak heb ik voor het eerst niet steeds alles uitgesteld tot het laatste moment. Ik vond het echt een heel leuk vak om te volgen en vond de manier van de lesgeven en lesindeling fijn om elke week echt voortgang te kunnen maken. 
+
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
