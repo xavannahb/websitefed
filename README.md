@@ -139,13 +139,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Iframe video aanpassen
+⋅⋅* Iframe video aanpassen
   Ik heb samen met Sanne de video kunnen aanpassen doormiddel van de 'aspect ratio'. SDe ratio heb ik in css gezet waardoor ik vervolgens een mooie video kreeg die meeschaalde. 
 
-  - Uitklap menu
+⋅⋅* Uitklap menu
   Zelf heb ik gsiter heel lang met een uitlkap menu lopen spelen maar het lukte maar niet. Ik heb nu met Sanne een klein begin gemaakt met css en javascript om hem vervolgens zelf mooi te laten werken en opmaken.
 
-  - Buttons
+⋅⋅* Buttons
   De buttons schaalde niet mee omdat ze op elkaar over liepen. Hiervoor heb ik als tip gekregen om display block te gebruiken. Inline zou er voor zorgen dat ze over de hele breedte zouden komen en dat wil ik niet. 
 
 </details>
@@ -161,7 +161,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-  - Screenreader
+ ⋅⋅* Screenreader
 De screenreader pakt mijn website goed door 
 </details>
 
@@ -178,10 +178,10 @@ De screenreader pakt mijn website goed door
 
 Er ging best wel veel goed deze week. Ik heb veel vooruit gang gemaakt met de puntjes op de i te zetten om ervoor te zorgen dat de website zoveel mogelijk op die van de ikea lijkt. 
 
-- Uitklap menu
+⋅⋅* Uitklap menu
 Ik heb ervoor gezorgd dat het uitklap menu de opmaak lijkt op die van ikea met de zoekbalk en de lijst met pagina's. 
 
-- Responsive img 
+⋅⋅* Responsive img 
 Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeven moment snapte ik hoe ik met media query's alle elementen op de juiste manier kon schalen. Ik ben de hele webpagina langs gegaan en steeds opgeschreven welke element versprong en op welk formaat dat gebeurde. 
 
 
@@ -198,16 +198,16 @@ Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeve
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Responsive afbeelding op pagina 2 in een grid zetten
+⋅⋅* Responsive afbeelding op pagina 2 in een grid zetten
 Ik heb de afbeelding op pagina 2 succesvol in een grid geplaatst. Hierdoor is de afbeelding nu volledig responsive en past deze zich goed aan op verschillende schermformaten.
 
-  - Header padding toevoegen
+⋅⋅* Header padding toevoegen
 Om het ontwerp netter te maken, heb ik padding toegevoegd aan de header. Dit lukte niet toen ik de hele header pakte maar wel als ik stukje voor stukje de header uit elkaar haalde waardoor er wat ruimte aan de zijkanten komt wat de ikea website ook heeft. 
 
-  - Footer schaalt niet mee
+⋅⋅* Footer schaalt niet mee
 Ik heb samen met Kim gekeken waarom de footer niet meeschaalde. Ik heb nu padding toegevoegd aan beide kanten van de footer waardoor deze met het scherm mee groter worden. 
 
-  - Light & dark mode
+⋅⋅* Light & dark mode
 Light en dark mode werkte niet mee. Ik snapte niet hoe je dit moest omdraaien. Met behulp van preferse heb ik nu mijn website in dark mode kunnen krijgen. Wel is het zo dat alles op een lelijke manier weergaf dus ik heb de hele root omgegooid en nu alle kleuren op de juiste manieren laten weergeven. 
 
 </details>
