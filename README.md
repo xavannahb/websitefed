@@ -71,9 +71,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/tweede-scherm.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
 </details>
 
 
@@ -89,14 +86,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  Ik heb helaas dit voortgangsgesprek gemist maar ik ben wel zelf druk aan de slag geweest met mijn website. Ik heb de hele html en css van de eerste pagina afgemaakt en al begonnen aan mojn tweede pagina. 
 
 Ik heb alle opdrachten die we gemaakt hebben in de eerste twee weken toegepast op mijn website. Tijdens de eerste twee weken hebben we veel nieuwe dingen behandeld en geleerd. 
-
-  ### Verslag van deze week
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
 
 </details>
 
@@ -165,9 +154,9 @@ Er ging best wel veel goed deze week. Ik heb veel vooruit gang gemaakt met de pu
 
   | Amy            | Xavannah           | 
   | ---            | ---                | 
-  | <img> Overlay  | en dit             | 
-  | en dat ook nog | dit als er tijd is | 
-  | ...            | ...                | 
+  | <img> Overlay  | responsive afbeelding             | 
+  | Donkere achtergond | Header padding | 
+  | ...            | Footer              | 
 
 
   ### Verslag van meeting
