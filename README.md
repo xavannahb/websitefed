@@ -37,13 +37,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.ikea.com/nl/nl/
   https://www.ikea.com/nl/nl/this-is-ikea/sustainable-everyday/how-to-be-more-sustainable/waarom-we-tweedehandsmeubels-verkopen-pub88c22ef0/
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
-  Home pagina
+  #### Screenshot van de Home pagina (small screen): 
   <img src="readme-images/homepage-ikea.png" width="375px" alt="omschrijving van de pagina">
 
-  #### Screenshot(s) van de tweede pagina (small screen):
-  Tweede handsmeubels 
-  <img src="readme-images/tweedehand-ikea.jpg" width="375px" alt="omschrijving van de pagina">
+  #### Screenshot van de tweedehands pagina (small screen):
+  <img src="readme-images/tweedehands-ikea.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -55,7 +53,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  - Ikea had geen light & dark mode 
+  - Ikea had geen light & dark mode
+
   - 
 
 </details>
@@ -138,13 +137,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Iframe video aanpassen
+⋅⋅* Iframe video aanpassen
   Ik heb samen met Sanne de video kunnen aanpassen doormiddel van de 'aspect ratio'. SDe ratio heb ik in css gezet waardoor ik vervolgens een mooie video kreeg die meeschaalde. 
 
-  - Uitklap menu
+⋅⋅* Uitklap menu
   Zelf heb ik gsiter heel lang met een uitlkap menu lopen spelen maar het lukte maar niet. Ik heb nu met Sanne een klein begin gemaakt met css en javascript om hem vervolgens zelf mooi te laten werken en opmaken.
 
-  - Buttons
+⋅⋅* Buttons
   De buttons schaalde niet mee omdat ze op elkaar over liepen. Hiervoor heb ik als tip gekregen om display block te gebruiken. Inline zou er voor zorgen dat ze over de hele breedte zouden komen en dat wil ik niet. 
 
 </details>
@@ -160,7 +159,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+ ⋅⋅* Screenreader
+De screenreader pakt mijn website goed door 
 </details>
 
 
@@ -176,10 +176,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 Er ging best wel veel goed deze week. Ik heb veel vooruit gang gemaakt met de puntjes op de i te zetten om ervoor te zorgen dat de website zoveel mogelijk op die van de ikea lijkt. 
 
-- Uitklap menu
+⋅⋅* Uitklap menu
 Ik heb ervoor gezorgd dat het uitklap menu de opmaak lijkt op die van ikea met de zoekbalk en de lijst met pagina's. 
 
-- Responsive img 
+⋅⋅* Responsive img 
 Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeven moment snapte ik hoe ik met media query's alle elementen op de juiste manier kon schalen. Ik ben de hele webpagina langs gegaan en steeds opgeschreven welke element versprong en op welk formaat dat gebeurde. 
 
 
@@ -196,16 +196,16 @@ Ik heb gekeken naar alle afbeeldingen en of die goed mee schaalde. Op een gegeve
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Responsive afbeelding op pagina 2 in een grid zetten
+⋅⋅* Responsive afbeelding op pagina 2 in een grid zetten
 Ik heb de afbeelding op pagina 2 succesvol in een grid geplaatst. Hierdoor is de afbeelding nu volledig responsive en past deze zich goed aan op verschillende schermformaten.
 
-  - Header padding toevoegen
+⋅⋅* Header padding toevoegen
 Om het ontwerp netter te maken, heb ik padding toegevoegd aan de header. Dit lukte niet toen ik de hele header pakte maar wel als ik stukje voor stukje de header uit elkaar haalde waardoor er wat ruimte aan de zijkanten komt wat de ikea website ook heeft. 
 
-  - Footer schaalt niet mee
+⋅⋅* Footer schaalt niet mee
 Ik heb samen met Kim gekeken waarom de footer niet meeschaalde. Ik heb nu padding toegevoegd aan beide kanten van de footer waardoor deze met het scherm mee groter worden. 
 
-  - Light & dark mode
+⋅⋅* Light & dark mode
 Light en dark mode werkte niet mee. Ik snapte niet hoe je dit moest omdraaien. Met behulp van preferse heb ik nu mijn website in dark mode kunnen krijgen. Wel is het zo dat alles op een lelijke manier weergaf dus ik heb de hele root omgegooid en nu alle kleuren op de juiste manieren laten weergeven. 
 
 </details>
@@ -224,11 +224,23 @@ Light en dark mode werkte niet mee. Ik snapte niet hoe je dit moest omdraaien. M
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Korte omschrijving met plaatjes 
+  Ik heb geleerd hoe ik met media querys op verschillende manieren light en dark mode kan geven aan een website. 
+  <img src="readme-images/light-dark.png" width="375px" alt="top">
+  
+ Ik heb geleerd om custom properties aan te spreken en geen classes of div’s te gebruiken. Eerst was dit best wel erg wennen omdat we het niet zo aangeleerd hadden gekregen maar nu kan ik eigenlijk bijna niet anders. 
+  <img src="readme-images/custom-properties.png" width="375px" alt="top">
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  Daarnaast heb ik ook geleerd hoe je een root moet toepassen in css. Het gebruiken van een root is eigenlijk een stuk handiger want dan hoef je niet kleur voor kleur aan te passen in je css.
+ <img src="readme-images/root.png" width="375px" alt="top">
+ 
+  Ik heb ook geleerd om met grid te werken in plaats van flexbox. Met grid kan je veel makkelijker elementen op een bepaalde manieren positioneren om je opmaak te veranderen. Om een site responsive te maken is met grid werken veel eenvoudiger. 
 
+Ook heb ik geleerd hoe je met media queries een website responsive maakt. Met de media queries heb ik op verschillende manieren me website responsive gekregen. Zoals afbeeldingen die verspringen in een grid van 2 columns naar 3 columns. Ook plaatsing van bepaalde elementen kan je veranderen door deze in de grid een andere plaats te geven. 
 
+Als laatst heb ik geleerd hoe ik svgs kan importeren in mijn html en hoe je de kleuren daarvan kan aanpassen ook met light en dark mode. 
+
+Tijdens dit vak heb ik voor het eerst niet steeds alles uitgesteld tot het laatste moment. Ik vond het echt een heel leuk vak om te volgen en vond de manier van de lesgeven en lesindeling fijn om elke week echt voortgang te kunnen maken. 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
