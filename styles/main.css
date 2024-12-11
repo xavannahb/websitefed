@@ -230,7 +230,6 @@ header nav:nth-of-type(2).open {
 
 header button {
     z-index: 2;
-    position: relative;
     border: none;
     background-color: var(--color-background);
 }

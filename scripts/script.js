@@ -1,3 +1,4 @@
+// Samen met Sanne gemaakt
 const menuButton = document.querySelector("header button")
 const deNav = document.querySelector("header nav:nth-of-type(2)")
 const deSluit = document.querySelector("header nav:nth-of-type(2) button")
