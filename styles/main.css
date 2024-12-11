@@ -449,5 +449,17 @@ footer section:nth-of-type(2) {
 footer section:nth-of-type(2) a {
     color: var(--color-text);
     font-size: 0.9em;
-    margin-top:
+	text-decoration: none;
+}
+
+@media (width > 37.5em) {
+	footer {
+       padding: 3em;
+    }
+}
+
+@media (width > 56.25em) {
+	footer {
+        padding: 4em;
+    }
 }
