@@ -37,12 +37,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.ikea.com/nl/nl/
   https://www.ikea.com/nl/nl/this-is-ikea/sustainable-everyday/how-to-be-more-sustainable/waarom-we-tweedehandsmeubels-verkopen-pub88c22ef0/
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
-  Home pagina
+  #### Screenshot van de Home pagina (small screen): 
   <img src="readme-images/homepage-ikea.png" width="375px" alt="omschrijving van de pagina">
 
-  #### Screenshot(s) van de tweede pagina (small screen):
-  Tweede handsmeubels 
+  #### Screenshot van de tweedehands pagina (small screen):
   <img src="readme-images/tweedehands-ikea.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
