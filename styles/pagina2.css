@@ -77,7 +77,7 @@ main section:nth-of-type(1) a {
     width: 11em;
     font-weight: 700;
     color: var(--color-text-2);
-    background-color: var(--color-background-2);
+    background-color: var(--color-backround-2);
     border: none;
     border-radius: 30px;
 }
