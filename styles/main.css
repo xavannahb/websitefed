@@ -1,3 +1,20 @@
+/*********************/
+/* FONTS */
+/*********************/
+
+@font-face {
+    font-family: "Ikea fontje";
+    src: url('../fonts/noto-ikea-400.woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Ikea fontje";
+    src: url('../fonts/noto-ikea-700-bold.woff2');
+    font-weight: 700;
+}
+
+
 /**************/
 /* CSS REMEDY */
 /**************/
@@ -63,21 +80,7 @@
 }
 
 
-/*********************/
-/* FONTS */
-/*********************/
 
-@font-face {
-    font-family: "Ikea fontje";
-    src: url('../fonts/noto-ikea-400.woff2');
-    font-weight: 400;
-}
-
-@font-face {
-    font-family: "Ikea fontje";
-    src: url('../fonts/noto-ikea-700-bold.woff2');
-    font-weight: 700;
-}
 
 
 /*********************/
