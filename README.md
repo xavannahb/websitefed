@@ -53,8 +53,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
+  <img src="readme-images/wcag-checklist.pdf" width="375px" alt="WCAG Checklist">
+  Positief: 
+  - Alt teksten | De website had overal alt teksten bij de afbeeldingen waardoor screenreaders goed door de paginas heen kunnen lezen. 
+  - Knoppen | Ze hebben knoppen die alleen verschijnen als je de screenreader gebruikt om ervoor te zorgen dat de lijsten overgeslagen worden. 
+  
+  Negatief: 
   - Ikea had geen light & dark mode | De Ikea had light en dark mode op hun website. Ze beperken hierbij erg de toegangkelijkheid van de website. 
-  - Afbeeldingen | De afbeeldingen van de website schalen niet mee. Er zijn 9 variaties per afbeelding om ervoor te zorgen dat het meeschaalt. Dit zorgt voor extra geheugen op de website en is dus niet 'Milieubewust of website verantwoord' zoals sommige zeggen. De Ikea gebruikt veel afbeeldingen 
+  - Afbeeldingen | De afbeeldingen van de website schalen niet mee. Er zijn 9 variaties per afbeelding om ervoor te zorgen dat het meeschaalt. Dit zorgt voor extra geheugen op de website en is dus niet 'Milieubewust of website verantwoord' zoals sommige zeggen.
   - Website heeft veel interactie | Voor gebruikers die de website kunnen zien is het interactief dat er veel pop ups, uitklapveldjes en  hovers zijn waar iets veranderd maar voor slechtziende gebruikers is dat niet fijn. 
 </details>
 
