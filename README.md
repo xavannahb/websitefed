@@ -55,13 +55,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   <img src="readme-images/wcag-checklist.pdf" width="375px" alt="WCAG Checklist">
   Positief: 
-  - Alt teksten | De website had overal alt teksten bij de afbeeldingen waardoor screenreaders goed door de paginas heen kunnen lezen. 
-  - Knoppen | Ze hebben knoppen die alleen verschijnen als je de screenreader gebruikt om ervoor te zorgen dat de lijsten overgeslagen worden. 
-  
+  <ul>
+  <li>Alt teksten | De website had overal alt teksten bij de afbeeldingen waardoor screenreaders goed door de paginas heen kunnen lezen.</li>
+  <li>Knoppen | Ze hebben knoppen die alleen verschijnen als je de screenreader gebruikt om ervoor te zorgen dat de lijsten overgeslagen worden.</li>
+  </ul>
   Negatief: 
-  - Ikea had geen light & dark mode | De Ikea had light en dark mode op hun website. Ze beperken hierbij erg de toegangkelijkheid van de website. 
-  - Afbeeldingen | De afbeeldingen van de website schalen niet mee. Er zijn 9 variaties per afbeelding om ervoor te zorgen dat het meeschaalt. Dit zorgt voor extra geheugen op de website en is dus niet 'Milieubewust of website verantwoord' zoals sommige zeggen.
-  - Website heeft veel interactie | Voor gebruikers die de website kunnen zien is het interactief dat er veel pop ups, uitklapveldjes en  hovers zijn waar iets veranderd maar voor slechtziende gebruikers is dat niet fijn. 
+  <ul>
+  <li>Ikea had geen light & dark mode | De Ikea had light en dark mode op hun website. Ze beperken hierbij erg de toegangkelijkheid van de website.</li>
+  <li>Afbeeldingen | De afbeeldingen van de website schalen niet mee. Er zijn 9 variaties per afbeelding om ervoor te zorgen dat het meeschaalt. Dit zorgt voor extra geheugen op de website en is dus niet 'Milieubewust of website verantwoord' zoals sommige zeggen.</li>
+  <li>Website heeft veel interactie | Voor gebruikers die de website kunnen zien is het interactief dat er veel pop ups, uitklapveldjes en  hovers zijn waar iets veranderd maar voor slechtziende gebruikers is dat niet fijn.</li> 
+  </ul>
 </details>
 
 
@@ -132,9 +135,12 @@ Ik heb alle opdrachten die we gemaakt hebben in de eerste twee weken toegepast o
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-- Screenreader | De screenreader tabt goed door mijn website door. Ik heb alle links zonder betekenis een aria label gegeven zodat de screenreader weet wat voor link het is.
+  <ul>
+  <li>Screenreader | De screenreader tabt goed door mijn website door. Ik heb alle links zonder betekenis een aria label gegeven zodat de screenreader weet wat voor link het is.</li>
 
-  - Light & dark mode | De website heb ik aangepast voor light en dark mode. Ik heb de achtergrond een soort donkergrijs gemaakt zodat mensen die niet tegen fel licht kunnen ook de website kunnen gebruiken.
+  <li>Light & dark mode | De website heb ik aangepast voor light en dark mode. Ik heb de achtergrond een soort donkergrijs gemaakt zodat mensen die niet tegen fel licht kunnen ook de website kunnen gebruiken.</li>
+   </ul>
+
 </details>
 
 
